@@ -1,0 +1,14 @@
+{
+  "effect.potionmod.hunter": "Hunter",
+  "item.minecraft.potion.effect.potionmod_hunter_potion": "Potion of Hunting",
+  "item.minecraft.splash_potion.effect.potionmod_hunter_potion": "Splash Potion of Hunting",
+  "item.minecraft.lingering_potion.effect.potionmod_hunter_potion": "Lingering Potion of Hunting",
+  "item.minecraft.tipped_arrow.effect.potionmod_hunter_potion": "Arrow of Hunting",
+  "tooltip.potionmod.glowing_ink": "Used to make the Potion of Hunting",
+  "item.potionmod.glowing_ink": "Glowing Ink",
+  "item.minecraft.potion.effect.potionmod_fishing_potion": "Potion of Fishing",
+  "item.minecraft.splash_potion.effect.potionmod_fishing_potion": "Splash Potion of Fishing",
+  "item.minecraft.lingering_potion.effect.potionmod_fishing_potion": "Lingering Potion of Fishing",
+  "item.minecraft.tipped_arrow.effect.potionmod_fishing_potion": "Arrow of Fishing",
+  "effect.potionmod.fishing": "Fishing"
+}
